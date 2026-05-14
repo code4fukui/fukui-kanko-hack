@@ -86,3 +86,7 @@ fastlane/test_output
 iOSInjectionProject/
 
 # End of https://www.toptal.com/developers/gitignore/api/swift
+# meta-ops cleanup
+.DS_Store
+Thumbs.db
+node_modules/
